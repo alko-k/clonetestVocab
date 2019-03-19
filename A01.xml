@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/VocabV2/skosrdf2html.xsl" type="text/xsl" media="screen"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/terms/" xmlns:dce="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:grg="http://www.isotc211.org/schemas/grg/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:void="http://rdfs.org/ns/void#" xmlns:pav="http://purl.org/pav/">
+<skos:Collection rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/">
+<skos:prefLabel>International Coastal Atlas Network Coastal Erosion Global Thesaurus</skos:prefLabel>
+<dc:title>International Coastal Atlas Network Coastal Erosion Global Thesaurus</dc:title>
+<skos:altLabel>ICAN Coastal Erosion Global Thesaurus</skos:altLabel>
+<dc:alternative>ICAN Coastal Erosion Global Thesaurus</dc:alternative>
+<dc:description>Terms used at all hierarchical levels in the ICAN global thesaurus for coastal erosion.  Terms used to populate drop-down lists in discovery portals.</dc:description>
+<dc:date>2011-08-16 02:00:06.0</dc:date>
+<owl:versionInfo>1</owl:versionInfo>
+<grg:RE_RegisterManager>British Oceanographic Data Centre</grg:RE_RegisterManager>
+<dc:publisher>Natural Environment Research Council</dc:publisher>
+<dc:creator>International Coastal Atlas Network</dc:creator>
+<grg:RE_RegisterOwner>International Coastal Atlas Network</grg:RE_RegisterOwner>
+<rdfs:comment>International federation of coastal web atlases.  Governance implemented through the Technical team.</rdfs:comment>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Agents_of_Coastal_Change/">
+<dc:identifier>SDN:A01::Agents_of_Coastal_Change</dc:identifier>
+<dce:identifier>SDN:A01::Agents_of_Coastal_Change</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Agents_of_Coastal_Change</skos:notation>
+<skos:prefLabel xml:lang="en">Agents of Coastal Change</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions and processes that change the nature or location of the boundary between land and sea.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Agents_of_Coastal_Change/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Agentes de alteração costeira</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Agentes de cambio costero</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Facteurs d'évolution du littoral</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Agenter for kystnære endringer</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Natural_Processes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Sediment_Budget/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Activity/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Effects_of_Coastal_Change/">
+<dc:identifier>SDN:A01::Effects_of_Coastal_Change</dc:identifier>
+<dce:identifier>SDN:A01::Effects_of_Coastal_Change</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Effects_of_Coastal_Change</skos:notation>
+<skos:prefLabel xml:lang="en">Effects of Coastal Change</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">The consequences of changes in the nature or location of the boundary between land and sea.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Effects_of_Coastal_Change/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Efeitos das alterações costeiras</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Efectos del cambio costero</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Conséquences de l'évolution du littoral</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Effekt av kystnære endringer</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Erosion_Flooding_and_Submergence/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Accretion_Shoaling_and_Emergence/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/I03/current/Coastal_Hazard/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Habitat_Alteration/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Emergency_Response_and_Disaster_Recovery/">
+<dc:identifier>SDN:A01::Emergency_Response_and_Disaster_Recovery</dc:identifier>
+<dce:identifier>SDN:A01::Emergency_Response_and_Disaster_Recovery</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Emergency_Response_and_Disaster_Recovery</skos:notation>
+<skos:prefLabel xml:lang="en">Emergency Response and Disaster Recovery</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions, requirements and processes that occur in response to natural or human events that destroy or put at risk life, property or the environment (including wildlife).</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Emergency_Response_and_Disaster_Recovery/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Respostas a situações de emergência e recuperação de desastres</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Respuesta a la emergencia y recuperación</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Gestion de crise et restauration (liée au sinistre)</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Kriseberedskap og katastrofehåndtering</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Hospital/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Police/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Shelters/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShorelineEmergencyAccess/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Zones/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Fire/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/CoastGuardStations/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachClosure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OilSpill/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Routes/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Responses_to_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Habitat_Alteration/">
+<dc:identifier>SDN:A01::Habitat_Alteration</dc:identifier>
+<dce:identifier>SDN:A01::Habitat_Alteration</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Habitat_Alteration</skos:notation>
+<skos:prefLabel xml:lang="en">Habitat Alteration</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Processes, activities and events that change the nature of the environment provided for living organisms.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Habitat_Alteration/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Alteração do habitat </skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Alteración del hábitat</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Dégradation des habitats</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Endring i leveområder</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Saltmarshes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneGrading/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalLagoons/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalTypology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalStability/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/BathingWaterQuality/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneRestoration/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OilSpill/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Effects_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Human_Activity/">
+<dc:identifier>SDN:A01::Human_Activity</dc:identifier>
+<dce:identifier>SDN:A01::Human_Activity</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Human_Activity</skos:notation>
+<skos:prefLabel xml:lang="en">Human Activity</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions and processes caused by humans.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Activity/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Atividade humana</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Actividad humana</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Activité humaine</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Menneskelig aktivitet</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OilSpill/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Seawalls/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/I03/current/Artificial_Structure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StructureProtection/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Wastewater/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/BlueFlagBeaches/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Shipping/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Shipwrecks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A03/current/Manmade/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Jetties/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Fishing/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneRestoration/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneGrading/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachNourishment/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RipRap/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ChannelDeepening/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Sewage/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Moorings/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/LandCoverChange/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Marinas/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalProtection/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CommercialFerryPorts/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Agents_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Human_Responses_to_Coastal_Change/">
+<dc:identifier>SDN:A01::Human_Responses_to_Coastal_Change</dc:identifier>
+<dce:identifier>SDN:A01::Human_Responses_to_Coastal_Change</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Human_Responses_to_Coastal_Change</skos:notation>
+<skos:prefLabel xml:lang="en">Human Responses to Coastal Change</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Human actions, requirements and processes that occur in response to changes in the nature or location of the boundary between land and sea.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Responses_to_Coastal_Change/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Respostas humanas às alterações costeiras</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Respuestas humanas al cambio costero </skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Mesures prises face à l'évolution du littoral</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Menneskelig respons på kystnære endringer</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Emergency_Response_and_Disaster_Recovery/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Mitigation_Strategies_and_Preparedness/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Legislation_and_Policy/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Legislation_and_Policy/">
+<dc:identifier>SDN:A01::Legislation_and_Policy</dc:identifier>
+<dce:identifier>SDN:A01::Legislation_and_Policy</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Legislation_and_Policy</skos:notation>
+<skos:prefLabel xml:lang="en">Legislation and Policy</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions and processes of local and national government.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Legislation_and_Policy/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Legislação e Políticas</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Legislación y política</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Législation et  Politiques</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Lovgivning og retningslinjer</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/CountyParks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/WorldHeritageSites/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Employment/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/HabitatRefuge/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/NationalParks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OceanStewardshipArea/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/PrivateProperty/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ResearchReserves/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AccessSiteGain/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AccessSiteLoss/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BLMLands/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BuildingCodes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Cadastre/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/CityLimits/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/CityParks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Counties/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Demographics/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DesignatedPublicAccess/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Education/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ForestServiceLands/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/HazardEducationOutreach/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MarineGardens/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MarineProtectedArea/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/NatureConservancy/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OceanShoresRecreationArea/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Permits/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShellfishHarvestBan/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShoreProtectiveStructureEligibility/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A03/current/Society/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StateLines/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StateParks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StatutoryVegetationLine/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/TerritorialSea/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/UrbanGrowth/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Zoning/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/RamsarSites/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SpecialAreasOfConservation/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SpecialProtectionAreas/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Reserves/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/AdministrativeBoundaries/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Reservations/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Responses_to_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Mitigation_Strategies_and_Preparedness/">
+<dc:identifier>SDN:A01::Mitigation_Strategies_and_Preparedness</dc:identifier>
+<dce:identifier>SDN:A01::Mitigation_Strategies_and_Preparedness</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Mitigation_Strategies_and_Preparedness</skos:notation>
+<skos:prefLabel xml:lang="en">Mitigation Strategies and Preparedness</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions, requirements and processes required to prevent the occurrence of catastrophic events.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Mitigation_Strategies_and_Preparedness/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Estratégias de mitigação e prevenção</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Estrategias de mitigación y preparación</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Stratégies de lutte et préparation</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Strategier og beredskap for skadereduksjon</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RockyIntertidal/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeneficialUse/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Dune/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Eelgrass/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/EstuaryManagementUnits/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Gravel/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/IntertidalWetlands/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Lighthouses/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Military/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RiversStreams/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AirTransportationInfrastructure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Relocation/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Bluff/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Estuary/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Flat/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Kelp/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MarineGardens/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RailTransportationInfrastructure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Reef/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RelativeErosionRiskZones/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RipRap/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AquaticBed/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachNourishment/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Birds/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Buoys/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Channels/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Data/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Docks/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneGrading/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneRestoration/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Electric/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/EstuaryClassifications/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/FineGrained/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/GeologicFault/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Hachery/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/HazardEducationOutreach/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Hospital/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Jetties/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Lakes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/LandUse/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Mammals/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MarineTransportationInfrastructure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MediumCoarse/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/MixedSandGravel/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OceanFloorGeology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Ports/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RoadTransportationInfrastructure/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/RockyShore/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Seawalls/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Shellfish/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShorelandManagementUnits/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShorelandOverlays/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ShoreProtectiveStructures/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/SmallCraftAdvisory/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Soil/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StructureElevation/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/StructureProtection/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Tourism/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/TowBoatLanes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Water/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Watershed/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/WildernessAreas/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SatelliteImagery/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalProtection/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Human_Responses_to_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Natural_Processes/">
+<dc:identifier>SDN:A01::Natural_Processes</dc:identifier>
+<dce:identifier>SDN:A01::Natural_Processes</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Natural_Processes</skos:notation>
+<skos:prefLabel xml:lang="en">Natural Processes</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Actions and processes that result from the forces of nature such as weather and tides.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Natural_Processes/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Processos naturais</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Procesos naturales</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Processus naturels</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Naturlige prosesser</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalTypology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Flood/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/TerrestrialGeology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Winds/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Rivers/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Waves/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Saltmarshes/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Tsunami/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Bathymetry/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AverageMinimumTemperature/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AveragePrecipitation/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalStability/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SynopticStations/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/I03/current/Shore_Geomorphology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/SeaLevelRise/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SeaLevelPosition/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Landslide/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/AverageMaximumTemperature/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/ClimatologicalStations/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalLagoons/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Topography/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/EarthSurfaceGeology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Erosion/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Rainfall/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Rain/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/TideGauges/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Agents_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Sediment_Budget/">
+<dc:identifier>SDN:A01::Sediment_Budget</dc:identifier>
+<dce:identifier>SDN:A01::Sediment_Budget</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Sediment_Budget</skos:notation>
+<skos:prefLabel xml:lang="en">Sediment Budget</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">The balance between sediment added to and removed from the coastal system.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Sediment_Budget/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Balanço sedimentar</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Balance sedimentario</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Bilan sédimentaire</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Sedimentbudsjett</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/P02/current/MBAN/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DigitalElevationModel/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/ChannelDeepening/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/TopoContour/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Sounding/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Soil/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/SedimentSource/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/SedimentSink/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Benchmark/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Erosion/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneGrading/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BoundingHeadland/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeneficialUse/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneRestoration/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BathyGrid/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BathyContours/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/OceanFloorGeology/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachProfiles/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/LIDARSurvey/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Agents_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Accretion_Shoaling_and_Emergence/">
+<dc:identifier>SDN:A01::Shoreline_Accretion_Shoaling_and_Emergence</dc:identifier>
+<dce:identifier>SDN:A01::Shoreline_Accretion_Shoaling_and_Emergence</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Shoreline_Accretion_Shoaling_and_Emergence</skos:notation>
+<skos:prefLabel xml:lang="en">Shoreline Accretion, Shoaling and Emergence</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Processes, activities and events that extend the boundary between land and sea seawards.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Accretion_Shoaling_and_Emergence/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Acreção da linha costeira, deposição em bancos de areia e sua emersão</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Deposición en la costa, deposición de los bancos de arena y aparición</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Engraissement du littoral, formation de haut fonds et émersion</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Kystlinjetilvekst, oppfylling og dannelse</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneRestoration/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachProfiles/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/Accretion/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Effects_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+<skos:member>
+<skos:Concept rdf:about="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Erosion_Flooding_and_Submergence/">
+<dc:identifier>SDN:A01::Shoreline_Erosion_Flooding_and_Submergence</dc:identifier>
+<dce:identifier>SDN:A01::Shoreline_Erosion_Flooding_and_Submergence</dce:identifier>
+<dc:date>2011-08-15 11:25:11.0</dc:date>
+<skos:notation>SDN:A01::Shoreline_Erosion_Flooding_and_Submergence</skos:notation>
+<skos:prefLabel xml:lang="en">Shoreline Erosion, Flooding and Submergence</skos:prefLabel>
+<skos:altLabel/>
+<skos:definition xml:lang="en">Processes, activities and events that extend the boundary between land and sea landwards.</skos:definition>
+<owl:versionInfo>1</owl:versionInfo>
+<pav:hasCurrentVersion rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Shoreline_Erosion_Flooding_and_Submergence/1/"/>
+<pav:version>1</pav:version>
+<pav:authoredOn>2011-08-15 11:25:11.0</pav:authoredOn>
+<skos:note xml:lang="en">accepted</skos:note>
+<owl:deprecated>false</owl:deprecated>
+<skos:prefLabel xml:lang="pt">Erosão da linha costeira, inundação e submersão</skos:prefLabel>
+<skos:definition xml:lang="pt">não disponível</skos:definition>
+<skos:prefLabel xml:lang="es">Erosión del litoral</skos:prefLabel>
+<skos:definition xml:lang="es">no disponible</skos:definition>
+<skos:prefLabel xml:lang="fr">Érosion du littoral, inondation et et submersion</skos:prefLabel>
+<skos:definition xml:lang="fr">Non disponible</skos:definition>
+<skos:prefLabel xml:lang="no">Kystlinjeerosjon, flom og oversvømmelse</skos:prefLabel>
+<skos:definition xml:lang="no">Ikke tilgjengelig</skos:definition>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/I03/current/Coastal_Flooding/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/I03/current/Coastal_Erosion/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/CoastalErosion/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A04/current/SeaLevelChange/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Waves/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Tsunami/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Landslide/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Flood/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/Erosion/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/BeachProfiles/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/HighSurfAdvisory/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/DuneGrading/"/>
+<skos:narrower rdf:resource="http://vocab.nerc.ac.uk/collection/A02/current/SeaLevelRise/"/>
+<skos:broader rdf:resource="http://vocab.nerc.ac.uk/collection/A01/current/Effects_of_Coastal_Change/"/>
+<void:inDataset rdf:resource="http://vocab.nerc.ac.uk/.well-known/void"/>
+</skos:Concept>
+</skos:member>
+</skos:Collection>
+</rdf:RDF>
